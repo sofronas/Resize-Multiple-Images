@@ -12,9 +12,7 @@ Just download .exe and run it. No install needed. https://bit.ly/resizerImages
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Sofronas Konstantinos Sotirios** - *Initial work* - [Sofronas](https://github.com/sofronas)
 
 ## License
 
